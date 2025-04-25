@@ -1,0 +1,1 @@
+import{c as t,o as a,b as e,al as n,F as r}from"./BzOBuNXo.js";import{F as _}from"./BU1GLfvp.js";const u={__name:"blog",setup(c){return(s,m)=>{const o=n;return a(),t(r,null,[e(o),e(_)],64)}}};export{u as default};
